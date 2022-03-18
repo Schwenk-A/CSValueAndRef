@@ -1,0 +1,15 @@
+C:\Users\Andrea\Desktop\repos\CSValueandRef\bin\Debug\net6.0\CSValueandRef.exe
+C:\Users\Andrea\Desktop\repos\CSValueandRef\bin\Debug\net6.0\CSValueandRef.deps.json
+C:\Users\Andrea\Desktop\repos\CSValueandRef\bin\Debug\net6.0\CSValueandRef.runtimeconfig.json
+C:\Users\Andrea\Desktop\repos\CSValueandRef\bin\Debug\net6.0\CSValueandRef.dll
+C:\Users\Andrea\Desktop\repos\CSValueandRef\bin\Debug\net6.0\CSValueandRef.pdb
+C:\Users\Andrea\Desktop\repos\CSValueandRef\obj\Debug\net6.0\CSValueandRef.csproj.AssemblyReference.cache
+C:\Users\Andrea\Desktop\repos\CSValueandRef\obj\Debug\net6.0\CSValueandRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrea\Desktop\repos\CSValueandRef\obj\Debug\net6.0\CSValueandRef.AssemblyInfoInputs.cache
+C:\Users\Andrea\Desktop\repos\CSValueandRef\obj\Debug\net6.0\CSValueandRef.AssemblyInfo.cs
+C:\Users\Andrea\Desktop\repos\CSValueandRef\obj\Debug\net6.0\CSValueandRef.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\repos\CSValueandRef\obj\Debug\net6.0\CSValueandRef.dll
+C:\Users\Andrea\Desktop\repos\CSValueandRef\obj\Debug\net6.0\refint\CSValueandRef.dll
+C:\Users\Andrea\Desktop\repos\CSValueandRef\obj\Debug\net6.0\CSValueandRef.pdb
+C:\Users\Andrea\Desktop\repos\CSValueandRef\obj\Debug\net6.0\CSValueandRef.genruntimeconfig.cache
+C:\Users\Andrea\Desktop\repos\CSValueandRef\obj\Debug\net6.0\ref\CSValueandRef.dll
